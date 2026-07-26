@@ -41,6 +41,10 @@ The circuit and Arduino code were designed and tested using Tinkercad Circuits.
 
 The project was tested and simulated using Tinkercad Circuits. The simulation video demonstrates the movement of the four Servo Motors and their final position at 90 degrees.
 
+## Simulation Video
+
+[Watch the Simulation Video](<Simulation video.mp4>)
+
 ## Author
 
 Shaimaa
