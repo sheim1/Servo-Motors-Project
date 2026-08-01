@@ -45,6 +45,4 @@ The project was tested and simulated using Tinkercad Circuits. The simulation vi
 
 [Watch the Simulation Video](<Simulation video.mp4>)
 
-## Author
 
-Shaimaa
